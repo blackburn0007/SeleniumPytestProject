@@ -17,7 +17,7 @@ class TestOne(BaseClass):
         self.driver.implicitly_wait(2)
 
         # search and wait
-        homepage.search_items('ber')
+        homepage.search_items('berry')
         time.sleep(2)
         log.info('search is successful')
 
