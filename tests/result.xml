@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="utf-8"?><testsuites><testsuite name="pytest" errors="0" failures="0" skipped="0" tests="1" time="17.093" timestamp="2024-03-05T17:56:14.137957" hostname="siyavush-Lenovo-IdeaPad-S145-15IIL"><testcase classname="test_e2e.TestOne" name="test_e2e" time="17.067" /></testsuite></testsuites>
